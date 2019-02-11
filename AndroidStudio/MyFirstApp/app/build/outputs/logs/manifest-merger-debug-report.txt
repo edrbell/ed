@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0286d38d70decada7ff2141ebc58b71c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rubrod/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f0e8bf9a6a20d2b9d3f37a80f551fa1a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f88be842e9689cb137f42c03c6a8c32e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a041d237cb59e13ed88c88c146c65d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/34487c322f185248446233e108670b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/289eee46c967b77a9e959c0e19198520/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/83b2cb4b66c0ec3259388c980b6fe67f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c14dcea71a3460047100af8b7658ce01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6acb81d42667e1028d923f344eb0c9c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b70ac8b257740abe543d1f0d8e051ef1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b7e6922dd73f277075c8c131690264fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/345ef0157b41126399584593f7b83665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5122852a67a61b7797a56d165e0874a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3f9f08a4739b24a9a60fff62ce400ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/07394b513b0a7ccffeb5daa19f047aff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9bb1ec46debfcac43eca32c0d5561f1e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/97111bb4491ed3d3e2bf3fd9c2ec6af2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5435765b68074843d118410b1527d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6dce64a05891a496d5ffeff3299ca861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9d1c5cad7059426052c3b6119ee6f7d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/99a4cd5ed94eb89d24ca936207a296d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1018ff86c8024eb44f5d2aa67d6e385e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/be91bc11695a83b9e355f4e352de4372/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf48ec91547b6af261964fee3774b06f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/17249885daa57a74bc97b9e1950abb04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0a3f0c4cb610c6ceee0c7b9f57a6fa9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rubrod/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f0e8bf9a6a20d2b9d3f37a80f551fa1a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rubrod/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f0e8bf9a6a20d2b9d3f37a80f551fa1a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9bb1ec46debfcac43eca32c0d5561f1e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9bb1ec46debfcac43eca32c0d5561f1e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myfirstapp.DisplayMessageActivity
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-69
+	android:name
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:19-57
+activity#com.example.myfirstapp.MainActivity
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0286d38d70decada7ff2141ebc58b71c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0286d38d70decada7ff2141ebc58b71c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rubrod/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f0e8bf9a6a20d2b9d3f37a80f551fa1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rubrod/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f0e8bf9a6a20d2b9d3f37a80f551fa1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f88be842e9689cb137f42c03c6a8c32e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f88be842e9689cb137f42c03c6a8c32e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a041d237cb59e13ed88c88c146c65d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a041d237cb59e13ed88c88c146c65d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/34487c322f185248446233e108670b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/34487c322f185248446233e108670b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/289eee46c967b77a9e959c0e19198520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/289eee46c967b77a9e959c0e19198520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/83b2cb4b66c0ec3259388c980b6fe67f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/83b2cb4b66c0ec3259388c980b6fe67f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c14dcea71a3460047100af8b7658ce01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c14dcea71a3460047100af8b7658ce01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6acb81d42667e1028d923f344eb0c9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6acb81d42667e1028d923f344eb0c9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b70ac8b257740abe543d1f0d8e051ef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b70ac8b257740abe543d1f0d8e051ef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b7e6922dd73f277075c8c131690264fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b7e6922dd73f277075c8c131690264fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/345ef0157b41126399584593f7b83665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/345ef0157b41126399584593f7b83665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5122852a67a61b7797a56d165e0874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5122852a67a61b7797a56d165e0874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3f9f08a4739b24a9a60fff62ce400ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3f9f08a4739b24a9a60fff62ce400ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/07394b513b0a7ccffeb5daa19f047aff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/07394b513b0a7ccffeb5daa19f047aff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9bb1ec46debfcac43eca32c0d5561f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9bb1ec46debfcac43eca32c0d5561f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/97111bb4491ed3d3e2bf3fd9c2ec6af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/97111bb4491ed3d3e2bf3fd9c2ec6af2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5435765b68074843d118410b1527d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5435765b68074843d118410b1527d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6dce64a05891a496d5ffeff3299ca861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6dce64a05891a496d5ffeff3299ca861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9d1c5cad7059426052c3b6119ee6f7d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9d1c5cad7059426052c3b6119ee6f7d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/99a4cd5ed94eb89d24ca936207a296d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/99a4cd5ed94eb89d24ca936207a296d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1018ff86c8024eb44f5d2aa67d6e385e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1018ff86c8024eb44f5d2aa67d6e385e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/be91bc11695a83b9e355f4e352de4372/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/be91bc11695a83b9e355f4e352de4372/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf48ec91547b6af261964fee3774b06f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf48ec91547b6af261964fee3774b06f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/17249885daa57a74bc97b9e1950abb04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/rubrod/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/17249885daa57a74bc97b9e1950abb04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0a3f0c4cb610c6ceee0c7b9f57a6fa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/rubrod/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0a3f0c4cb610c6ceee0c7b9f57a6fa9/AndroidManifest.xml:20:5-44
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rubrod/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml

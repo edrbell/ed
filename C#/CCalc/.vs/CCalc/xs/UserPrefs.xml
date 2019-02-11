@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D5B8645D-CD3E-4EF1-8883-F5ECED73D84A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CCalc/MainWindow.cs">
+    <Files>
+      <File FileName="CCalc/Program.cs" Line="17" Column="1" />
+      <File FileName="CCalc/MainWindow.cs" Line="99" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
