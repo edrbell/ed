@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rubrod/AndroidStudioProjects/Suma/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/home/rubrod/Documentos/ED/AndroidStudio/Suma/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/home/rubrod/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb98effb5042c15e28e1d7b91b3160b7/res/values-fi/values-fi.xml",
