@@ -1,0 +1,4 @@
+#Mon Jan 28 08:57:31 CET 2019
+base.0=/home/rubrod/AndroidStudioProjects/MyFirstApp/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

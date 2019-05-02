@@ -1,0 +1,6 @@
+/home/rubrod/Projects/CVentana/CVentana/bin/Debug/CVentana.exe
+/home/rubrod/Projects/CVentana/CVentana/bin/Debug/CVentana.pdb
+/home/rubrod/Projects/CVentana/CVentana/obj/x86/Debug/CVentana.csprojAssemblyReference.cache
+/home/rubrod/Projects/CVentana/CVentana/obj/x86/Debug/CVentana.csproj.CoreCompileInputs.cache
+/home/rubrod/Projects/CVentana/CVentana/obj/x86/Debug/CVentana.exe
+/home/rubrod/Projects/CVentana/CVentana/obj/x86/Debug/CVentana.pdb

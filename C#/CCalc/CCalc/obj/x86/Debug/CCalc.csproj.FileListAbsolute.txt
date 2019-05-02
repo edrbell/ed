@@ -1,0 +1,6 @@
+/home/rubrod/Projects/CCalc/CCalc/bin/Debug/CCalc.exe
+/home/rubrod/Projects/CCalc/CCalc/bin/Debug/CCalc.pdb
+/home/rubrod/Projects/CCalc/CCalc/obj/x86/Debug/CCalc.csprojAssemblyReference.cache
+/home/rubrod/Projects/CCalc/CCalc/obj/x86/Debug/CCalc.csproj.CoreCompileInputs.cache
+/home/rubrod/Projects/CCalc/CCalc/obj/x86/Debug/CCalc.exe
+/home/rubrod/Projects/CCalc/CCalc/obj/x86/Debug/CCalc.pdb
