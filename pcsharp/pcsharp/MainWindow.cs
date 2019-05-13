@@ -12,6 +12,14 @@ public partial class MainWindow : Gtk.Window
         listStore.AppendValues("Rosa", "999999444");
         listStore.AppendValues("Pepe", "666699444");
         treeView.Model = listStore;
+
+        editAction.Sensitive = false;
+
+        newAction.Activated += (sender, e) =>
+        {
+            vbox1.Visible = true;
+            treeView.Sensitive = false;
+        };
     }
 
     protected void OnDeleteEvent(object sender, DeleteEventArgs a)

@@ -1,6 +1,0 @@
-/home/rubrod/Projects/pcsharp/pcsharp/bin/Debug/pcsharp.exe
-/home/rubrod/Projects/pcsharp/pcsharp/bin/Debug/pcsharp.pdb
-/home/rubrod/Projects/pcsharp/pcsharp/obj/x86/Debug/pcsharp.csprojAssemblyReference.cache
-/home/rubrod/Projects/pcsharp/pcsharp/obj/x86/Debug/pcsharp.csproj.CoreCompileInputs.cache
-/home/rubrod/Projects/pcsharp/pcsharp/obj/x86/Debug/pcsharp.exe
-/home/rubrod/Projects/pcsharp/pcsharp/obj/x86/Debug/pcsharp.pdb
